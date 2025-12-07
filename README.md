@@ -42,5 +42,5 @@ Project under active development. New sections and improvements will be added ov
 
 LICENCE
 
-This project is for commercial use by Kosh Charcutarie.
+This project is for commercial use by Kosh Charcutaria.
 Redistribution or unauthorized use is not permitted.
